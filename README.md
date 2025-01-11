@@ -1,4 +1,4 @@
-Hi there, I'm Prahallad Padhan 👋
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=prahallad-padhan&label=Profile%20views&color=0e75b6&style=flat" alt="prahallad-padhan" /> </p>
 -Welcome to my GitHub profile! I'm passionate about coding, technology, and continuous learning. Here's a bit about me:
 
 🚀 About Me
@@ -28,11 +28,10 @@ Other Skills: SEO, Social Media Marketing, Process Management
 <h1 align="center">Hi 👋, I'm Prahallad Padhan</h1>
 <h3 align="center">A passionate Software Developer</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=prahallad-padhan&label=Profile%20views&color=0e75b6&style=flat" alt="prahallad-padhan" /> </p>
-
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/pp1325" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="pp1325" height="30" width="40" /></a>
+  - prahalladp1325@gmail.com
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
@@ -40,9 +39,6 @@ Other Skills: SEO, Social Media Marketing, Process Management
 
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=prahallad-padhan&show_icons=true&locale=en&layout=compact" alt="prahallad-padhan" /></p>
 
-
-🌐 Connect with Me
-- prahalladp1325@gmail.com
 
 
 
